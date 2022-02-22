@@ -1,0 +1,42 @@
+
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #bebebeab;
+    color: white;
+    font-size: 20px;
+  }
+
+.array-container{
+    display: block;
+    position: absolute;
+    top: 184px;
+    left: 4px;
+    right: 4px;
+    bottom: -200px;
+    padding-top: 30px;
+    padding-bottom: 90px;
+    background-color: rgb(0, 0, 0);
+}
+
+.btn{
+
+    background: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    transition: 0.6s;
+}
+
+.array-bar{
+    width: 1px;
+    height: 5px;
+    background-color: rgb(187, 187, 187);
+    display: inline-block;
+    margin: 0 1px;
+    
+}
+
+
